@@ -27,7 +27,6 @@ This repository provides a convenient Bash script to automate the installation o
    ./install-unifi-mongodb.sh
    ```
 
-Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
 
 ## Requirements
 
