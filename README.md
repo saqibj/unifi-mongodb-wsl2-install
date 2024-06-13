@@ -16,7 +16,7 @@ This repository provides a convenient Bash script to automate the installation o
 
 1. Download the script:
    ```bash
-   wget https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/unifi-mongodb-wsl2-install/main/install-unifi-mongodb.sh
+   wget https://raw.githubusercontent.com/saqibj/unifi-mongodb-wsl2-install/main/install-unifi-mongodb.sh
    ```
 2. Make the script executable:
    ```bash
