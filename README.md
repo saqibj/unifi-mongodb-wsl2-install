@@ -37,6 +37,3 @@ This repository provides a convenient Bash script to automate the installation o
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This description should provide clear guidance on what the repository does and how to use the script effectively.
